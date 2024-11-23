@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FundaDataCollector": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7065",
+      "launchBrowser": false
+    }
+  }
+}
